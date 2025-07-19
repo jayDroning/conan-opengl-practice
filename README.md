@@ -25,12 +25,14 @@ This project uses the following libraries (installed via Conan 2):
 
 ## Project Structure
 
+```text
 cpp-opengl-practice/
 ├── src/
 │   └── main.cpp
 ├── CMakeLists.txt
 ├── conanfile.py
 └── build/           # Created after Conan + CMake configure
+```
 
 ---
 
