@@ -28,6 +28,8 @@ This project uses the following libraries (installed via Conan 2):
 ```text
 cpp-opengl-practice/
 ├── src/
+│   ├── conan-opengl-practice.cpp
+│   ├── conan-opengl-practice.h
 │   └── main.cpp
 ├── CMakeLists.txt
 ├── conanfile.py
